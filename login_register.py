@@ -4,7 +4,7 @@ import time
 import os
 from tkinter import messagebox
 from tkinter import font
-
+# initializing the main window 
 main_screen = Tk()
 main_screen.geometry("500x500")
 main_screen.configure(bg="#9893cc")
